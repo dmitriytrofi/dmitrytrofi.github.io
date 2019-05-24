@@ -1,0 +1,31 @@
+/* BEGIN (write your solution here) */
+body{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+div{
+     margin-top: 50px;
+}
+p{
+    margin-top: -15px
+}
+h2  { border-bottom: 1px solid black; }
+/* END */
+ul{
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+#footer {
+    text-align: center;
+    margin-top: 64px;
+    }
+.icon {
+margin-left: 10px;
+}  
+h1 {font-size: 36px;}
+h2 {font-size: 32px;}
+h3 {font-size: 20px;}
